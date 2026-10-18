@@ -12,50 +12,58 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Zura =====
-[1]Zura        |07:19:05 | 17-10-2026| login OK @wzuraaa | score=1360 rank=4737
-[1]Zura        |07:19:05 | 17-10-2026| serverTime=2026-10-17T07:19:05.000Z local=2026-10-17T07:19:05.515Z
+[1]Zura        |05:19:36 | 18-10-2026| login OK @wzuraaa | score=1390 rank=4727
+[1]Zura        |05:19:36 | 18-10-2026| serverTime=2026-10-18T05:19:35.000Z local=2026-10-18T05:19:36.006Z
 --> [1]Zura menjalankan: Claim Daily
-[1]Zura        |07:19:06 | 17-10-2026| daily: OK +10 poin score=1370
---> [1]Zura menjalankan: Auto All Tasks (2 pending)
-[1]Zura        |07:19:08 | 17-10-2026| [1/2] 22d3eb50 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"6d074078-dce8-4c28-9518-4d8ce6181d4a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211099875883428 | proof=https://x.com/wzuraaa/status/2111355738928345334
-[1]Zura        |07:19:08 | 17-10-2026| delay 10s...
-[1]Zura        |07:19:19 | 17-10-2026| [2/2] cc2ba95b (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"6d074078-dce8-4c28-9518-4d8ce6181d4a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211099875883428 | proof=https://x.com/wzuraaa/status/2111355779123144754
-[1]Zura        |07:19:19 | 17-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Zura        |07:19:20 | 17-10-2026| [1/1] 22d3eb50 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"6d074078-dce8-4c28-9518-4d8ce6181d4a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2110998758834286 | proof=https://x.com/wzuraaa/status/2111355743614156392
+[1]Zura        |05:19:37 | 18-10-2026| daily: OK +10 poin score=1400
+--> [1]Zura menjalankan: Auto All Tasks (5 pending)
+[1]Zura        |05:19:39 | 18-10-2026| [1/5] fa44d98c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"fa44d98c-03f4-4c7f-b0aa-ae511e074978","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211145507312569 | proof=https://x.com/wzuraaa/status/2111688159497760196
+[1]Zura        |05:19:39 | 18-10-2026| delay 10s...
+[1]Zura        |05:19:51 | 18-10-2026| [2/5] 9dd2f7fc (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"fa44d98c-03f4-4c7f-b0aa-ae511e074978","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211145507312569 | proof=https://x.com/wzuraaa/status/2111688079333445495
+[1]Zura        |05:19:51 | 18-10-2026| delay 10s...
+[1]Zura        |05:20:03 | 18-10-2026| [3/5] 9d42b298 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"fa44d98c-03f4-4c7f-b0aa-ae511e074978","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211145507312569 | proof=https://x.com/wzuraaa/status/2111688168850356262
+[1]Zura        |05:20:03 | 18-10-2026| delay 10s...
+[1]Zura        |05:20:16 | 18-10-2026| [4/5] 43631d01 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"fa44d98c-03f4-4c7f-b0aa-ae511e074978","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211145507312569
+[1]Zura        |05:20:16 | 18-10-2026| delay 10s...
+[1]Zura        |05:20:28 | 18-10-2026| [5/5] 9a5c9c72 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"fa44d98c-03f4-4c7f-b0aa-ae511e074978","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211145507312569 | proof=https://x.com/wzuraaa/status/2111688524720942652
+[1]Zura        |05:20:28 | 18-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Zura        |05:20:30 | 18-10-2026| [1/1] fa44d98c (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"fa44d98c-03f4-4c7f-b0aa-ae511e074978","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2111455073125699 | proof=https://x.com/wzuraaa/status/2111688286319825035
 --> [1]Zura menjalankan: Watch Anime
-[1]Zura        |07:19:21 | 17-10-2026| watch: 3 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse
-[1]Zura        |07:19:21 | 17-10-2026| watch [1/3] farming oshi-captains-hat...
-  video baru dikenal: oshi-captains-hat (katalog +4)
-[1]Zura        |07:19:23 | 17-10-2026| watch oshi-captains-hat: durasi tak diketahui, skip (record tidak disentuh)
-[1]Zura        |07:19:28 | 17-10-2026| watch [2/3] farming oshi-rainbow-star...
-[1]Zura        |07:19:29 | 17-10-2026| watch oshi-rainbow-star: durasi tak diketahui, skip (record tidak disentuh)
-[1]Zura        |07:19:34 | 17-10-2026| watch [3/3] farming oshi-rainbow-lighthouse...
-[1]Zura        |07:19:36 | 17-10-2026| watch oshi-rainbow-lighthouse: durasi tak diketahui, skip (record tidak disentuh)
+[1]Zura        |05:20:31 | 18-10-2026| watch: 4 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse,bakeru-ikesou-jan-mv
+[1]Zura        |05:20:31 | 18-10-2026| watch [1/4] farming oshi-captains-hat...
+  video baru dikenal: oshi-captains-hat (katalog +5)
+[1]Zura        |05:20:33 | 18-10-2026| watch oshi-captains-hat: durasi tak diketahui, skip (record tidak disentuh)
+[1]Zura        |05:20:38 | 18-10-2026| watch [2/4] farming oshi-rainbow-star...
+[1]Zura        |05:20:40 | 18-10-2026| watch oshi-rainbow-star: durasi tak diketahui, skip (record tidak disentuh)
+[1]Zura        |05:20:45 | 18-10-2026| watch [3/4] farming oshi-rainbow-lighthouse...
+[1]Zura        |05:20:47 | 18-10-2026| watch oshi-rainbow-lighthouse: durasi tak diketahui, skip (record tidak disentuh)
+[1]Zura        |05:20:52 | 18-10-2026| watch [4/4] farming bakeru-ikesou-jan-mv...
+[1]Zura        |05:20:54 | 18-10-2026| watch bakeru-ikesou-jan-mv: durasi tak diketahui, skip (record tidak disentuh)
 --> [1]Zura menjalankan: Read Article
-[1]Zura        |07:19:37 | 17-10-2026| news: 27/27 artikel selesai dibaca
-[1]Zura        |07:19:37 | 17-10-2026| mint eligibility: {"userId":"1716084694746578944","youtube":{"url":"https://www.youtube.com/@zurawidiyanti","status":"submitted","revision":"b790e4ca-3035-47a7-baf5-e384985e0cb1","submittedAt":1791667113,"reviewedAt":1
-[1]Zura        |07:19:37 | 17-10-2026| news: semua artikel sudah dibaca
+[1]Zura        |05:20:55 | 18-10-2026| news: 27/27 artikel selesai dibaca
+[1]Zura        |05:20:56 | 18-10-2026| mint eligibility: {"userId":"1716084694746578944","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@zurawidiyanti","status":"submitted","revision":"b790e4ca-3035-47a7-baf5-e384985e
+[1]Zura        |05:20:56 | 18-10-2026| news: semua artikel sudah dibaca
 --> [1]Zura menjalankan: Quiz Anime
-[1]Zura        |07:19:38 | 17-10-2026| quiz ep1: sudah dijawab
-[1]Zura        |07:19:38 | 17-10-2026| quiz ep2: sudah dijawab
-[1]Zura        |07:19:38 | 17-10-2026| quiz ep3: sudah dijawab
-[1]Zura        |07:19:38 | 17-10-2026| quiz ep4: sudah dijawab
-[1]Zura        |07:19:38 | 17-10-2026| quiz ep5: sudah dijawab
-[1]Zura        |07:19:38 | 17-10-2026| quiz ep6: sudah dijawab
+[1]Zura        |05:20:57 | 18-10-2026| quiz ep1: sudah dijawab
+[1]Zura        |05:20:57 | 18-10-2026| quiz ep2: sudah dijawab
+[1]Zura        |05:20:57 | 18-10-2026| quiz ep3: sudah dijawab
+[1]Zura        |05:20:57 | 18-10-2026| quiz ep4: sudah dijawab
+[1]Zura        |05:20:57 | 18-10-2026| quiz ep5: sudah dijawab
+[1]Zura        |05:20:57 | 18-10-2026| quiz ep6: sudah dijawab
 --> [1]Zura menjalankan: Music Missions (realtime, bisa lama!)
-[1]Zura        |07:19:39 | 17-10-2026| music: kedua misi sudah tercapai, stop
-[1]Zura        |07:19:40 | 17-10-2026| mission music-listens-10: sudah diklaim
-[1]Zura        |07:19:40 | 17-10-2026| mission music-minutes-30: sudah diklaim
-[1]Zura        |07:19:40 | 17-10-2026| mission anime-completed-3: sudah diklaim
+[1]Zura        |05:21:00 | 18-10-2026| music: kedua misi sudah tercapai, stop
+[1]Zura        |05:21:01 | 18-10-2026| mission music-listens-10: sudah diklaim
+[1]Zura        |05:21:01 | 18-10-2026| mission music-minutes-30: sudah diklaim
+[1]Zura        |05:21:01 | 18-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Zura menjalankan: Claim Missions
-[1]Zura        |07:19:40 | 17-10-2026| mission music-listens-10: sudah diklaim
-[1]Zura        |07:19:40 | 17-10-2026| mission music-minutes-30: sudah diklaim
-[1]Zura        |07:19:40 | 17-10-2026| mission anime-completed-3: sudah diklaim
+[1]Zura        |05:21:01 | 18-10-2026| mission music-listens-10: sudah diklaim
+[1]Zura        |05:21:01 | 18-10-2026| mission music-minutes-30: sudah diklaim
+[1]Zura        |05:21:01 | 18-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Zura menjalankan: Check Eligibility
 
 --- eligibility [1]Zura ---
-  @wzuraaa | score=1360 rank=4737
-  tasks    [####################] 79/81
+  @wzuraaa | score=1390 rank=4727
+  tasks    [###################-] 75/80
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -66,14 +74,14 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Zura menjalankan: Read Manga
-[1]Zura        |07:19:43 | 17-10-2026| manga: 0/13 chapter belum completed
+[1]Zura        |05:21:08 | 18-10-2026| manga: 0/13 chapter belum completed
 --> [1]Zura menjalankan: Get Gift
-[1]Zura        |07:19:43 | 17-10-2026| gift: 0/4 belum diterima
+[1]Zura        |05:21:08 | 18-10-2026| gift: 0/4 belum diterima
 --> [1]Zura menjalankan: Setup Profile
-[1]Zura        |07:19:44 | 17-10-2026| profile: bio="https://x.com/wzuraaa" fav=oshi rewardAt=1791687658
-[1]Zura        |07:19:44 | 17-10-2026| profile: bonus sudah diklaim, skip
+[1]Zura        |05:21:09 | 18-10-2026| profile: bio="https://x.com/wzuraaa" fav=oshi rewardAt=1791687658
+[1]Zura        |05:21:09 | 18-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Zura menjalankan: Bind Wallet
-[1]Zura        |07:19:44 | 17-10-2026| wallet: sudah terikat Av1MYx8hPu... (solana)
+[1]Zura        |05:21:10 | 18-10-2026| wallet: sudah terikat Av1MYx8hPu... (solana)
 
 == RINGKASAN ==
-- Zura: daily=claimed | tasks OK 3/3 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/3 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
+- Zura: daily=claimed | tasks OK 6/6 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/4 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
