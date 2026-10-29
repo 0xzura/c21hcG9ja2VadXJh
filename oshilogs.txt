@@ -12,47 +12,51 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Zura =====
-[1]Zura        |06:41:19 | 28-10-2026| login OK @wzuraaa | score=2260 rank=3440
-[1]Zura        |06:41:19 | 28-10-2026| serverTime=2026-10-28T06:41:19.000Z local=2026-10-28T06:41:19.139Z
+[1]Zura        |06:48:41 | 29-10-2026| login OK @wzuraaa | score=2340 rank=3330
+[1]Zura        |06:48:41 | 29-10-2026| serverTime=2026-10-29T06:48:40.000Z local=2026-10-29T06:48:41.005Z
 --> [1]Zura menjalankan: Claim Daily
-[1]Zura        |06:41:20 | 28-10-2026| daily: OK +10 poin score=2270
---> [1]Zura menjalankan: Auto All Tasks (7 pending)
-[1]Zura        |06:41:22 | 28-10-2026| [1/7] 87ae8b6e (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"87ae8b6e-5160-4f19-8e5e-b9c0f414d46c","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211506845698718 | proof=https://x.com/wzuraaa/status/2115332620555447134
-[1]Zura        |06:41:22 | 28-10-2026| delay 10s...
-[1]Zura        |06:41:34 | 28-10-2026| [2/7] 569b202e (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"87ae8b6e-5160-4f19-8e5e-b9c0f414d46c","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211506845698718 | proof=https://x.com/wzuraaa/status/2115332582779936987
-[1]Zura        |06:41:34 | 28-10-2026| delay 10s...
-[1]Zura        |06:41:46 | 28-10-2026| [3/7] 1c315c65 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"87ae8b6e-5160-4f19-8e5e-b9c0f414d46c","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211506845698718 | proof=https://x.com/wzuraaa/status/2115332599353926570
-[1]Zura        |06:41:46 | 28-10-2026| delay 10s...
-[1]Zura        |06:41:58 | 28-10-2026| [4/7] 3f7b08ea (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"87ae8b6e-5160-4f19-8e5e-b9c0f414d46c","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211506845698718 | proof=https://x.com/wzuraaa/status/2115332661943825599
-[1]Zura        |06:41:58 | 28-10-2026| delay 10s...
-[1]Zura        |06:42:10 | 28-10-2026| [5/7] 84429acd (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"87ae8b6e-5160-4f19-8e5e-b9c0f414d46c","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211506845698718 | proof=https://x.com/wzuraaa/status/2115332883873157764
-[1]Zura        |06:42:10 | 28-10-2026| delay 10s...
-[1]Zura        |06:42:22 | 28-10-2026| [6/7] 6c6d6f6f (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"87ae8b6e-5160-4f19-8e5e-b9c0f414d46c","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211506845698718 | proof=https://x.com/wzuraaa/status/2115332787213098628
-[1]Zura        |06:42:22 | 28-10-2026| delay 10s...
-[1]Zura        |06:42:36 | 28-10-2026| [7/7] f12f3018 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"87ae8b6e-5160-4f19-8e5e-b9c0f414d46c","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211506845698718 | proof=https://x.com/wzuraaa/status/2115332895080582450
-[1]Zura        |06:42:36 | 28-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Zura        |06:42:38 | 28-10-2026| [1/1] 87ae8b6e (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"87ae8b6e-5160-4f19-8e5e-b9c0f414d46c","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2115068456987189 | proof=https://x.com/wzuraaa/status/2115332981407306116
+[1]Zura        |06:48:42 | 29-10-2026| daily: OK +10 poin score=2350
+--> [1]Zura menjalankan: Auto All Tasks (9 pending)
+[1]Zura        |06:48:43 | 29-10-2026| [1/9] 5c713c28 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"5c713c28-c0ea-4021-80b8-c708a35357ea","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211560531464944 | proof=https://x.com/wzuraaa/status/2115696966204672310
+[1]Zura        |06:48:43 | 29-10-2026| delay 10s...
+[1]Zura        |06:48:55 | 29-10-2026| [2/9] a4b0b050 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"5c713c28-c0ea-4021-80b8-c708a35357ea","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211560531464944 | proof=https://x.com/wzuraaa/status/2115696867735284780
+[1]Zura        |06:48:55 | 29-10-2026| delay 10s...
+[1]Zura        |06:49:06 | 29-10-2026| [3/9] 6fb148bd (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"5c713c28-c0ea-4021-80b8-c708a35357ea","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211560531464944 | proof=https://x.com/wzuraaa/status/2115697016512363195
+[1]Zura        |06:49:06 | 29-10-2026| delay 10s...
+[1]Zura        |06:49:18 | 29-10-2026| [4/9] c0149815 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"5c713c28-c0ea-4021-80b8-c708a35357ea","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211560531464944 | proof=https://x.com/wzuraaa/status/2115697036136478819
+[1]Zura        |06:49:18 | 29-10-2026| delay 10s...
+[1]Zura        |06:49:30 | 29-10-2026| [5/9] 3a2ebc56 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"5c713c28-c0ea-4021-80b8-c708a35357ea","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211560531464944 | proof=https://x.com/wzuraaa/status/2115696955296186800
+[1]Zura        |06:49:30 | 29-10-2026| delay 10s...
+[1]Zura        |06:49:41 | 29-10-2026| [6/9] 21a80281 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"5c713c28-c0ea-4021-80b8-c708a35357ea","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211560531464944 | proof=https://x.com/wzuraaa/status/2115697012599352180
+[1]Zura        |06:49:41 | 29-10-2026| delay 10s...
+[1]Zura        |06:49:53 | 29-10-2026| [7/9] 623aac60 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"5c713c28-c0ea-4021-80b8-c708a35357ea","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211560531464944 | proof=https://x.com/wzuraaa/status/2115697237553563833
+[1]Zura        |06:49:53 | 29-10-2026| delay 10s...
+[1]Zura        |06:50:04 | 29-10-2026| [8/9] 8545d68c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"5c713c28-c0ea-4021-80b8-c708a35357ea","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211560531464944 | proof=https://x.com/wzuraaa/status/2115697139002545300
+[1]Zura        |06:50:04 | 29-10-2026| delay 10s...
+[1]Zura        |06:50:16 | 29-10-2026| [9/9] 125a0329 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"5c713c28-c0ea-4021-80b8-c708a35357ea","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211560531464944
+[1]Zura        |06:50:16 | 29-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Zura        |06:50:18 | 29-10-2026| [1/1] 5c713c28 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"5c713c28-c0ea-4021-80b8-c708a35357ea","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2115605314649444 | proof=https://x.com/wzuraaa/status/2115697220732612165
 --> [1]Zura menjalankan: Watch Anime
-[1]Zura        |06:42:39 | 28-10-2026| watch: semua video sudah completed
+[1]Zura        |06:50:18 | 29-10-2026| watch: semua video sudah completed
 --> [1]Zura menjalankan: Read Article
-[1]Zura        |06:42:40 | 28-10-2026| news: 30/30 artikel selesai dibaca
-[1]Zura        |06:42:41 | 28-10-2026| mint eligibility: {"userId":"1716084694746578944","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@zurawidiyanti","status":"submitted","revision":"b790e4ca-3035-47a7-baf5-e384985e
-[1]Zura        |06:42:41 | 28-10-2026| news: semua artikel sudah dibaca
+[1]Zura        |06:50:20 | 29-10-2026| news: 30/30 artikel selesai dibaca
+[1]Zura        |06:50:20 | 29-10-2026| mint eligibility: {"userId":"1716084694746578944","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@zurawidiyanti","status":"submitted","revision":"b790e4ca-3035-47a7-baf5-e384985e
+[1]Zura        |06:50:20 | 29-10-2026| news: semua artikel sudah dibaca
 --> [1]Zura menjalankan: Quiz Anime
 --> [1]Zura menjalankan: Music Missions (realtime, bisa lama!)
-[1]Zura        |06:42:43 | 28-10-2026| music: kedua misi sudah tercapai, stop
-[1]Zura        |06:42:44 | 28-10-2026| mission music-listens-10: sudah diklaim
-[1]Zura        |06:42:44 | 28-10-2026| mission music-minutes-30: sudah diklaim
-[1]Zura        |06:42:44 | 28-10-2026| mission anime-completed-3: sudah diklaim
+[1]Zura        |06:50:22 | 29-10-2026| music: kedua misi sudah tercapai, stop
+[1]Zura        |06:50:23 | 29-10-2026| mission music-listens-10: sudah diklaim
+[1]Zura        |06:50:23 | 29-10-2026| mission music-minutes-30: sudah diklaim
+[1]Zura        |06:50:23 | 29-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Zura menjalankan: Claim Missions
-[1]Zura        |06:42:44 | 28-10-2026| mission music-listens-10: sudah diklaim
-[1]Zura        |06:42:44 | 28-10-2026| mission music-minutes-30: sudah diklaim
-[1]Zura        |06:42:44 | 28-10-2026| mission anime-completed-3: sudah diklaim
+[1]Zura        |06:50:23 | 29-10-2026| mission music-listens-10: sudah diklaim
+[1]Zura        |06:50:23 | 29-10-2026| mission music-minutes-30: sudah diklaim
+[1]Zura        |06:50:23 | 29-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Zura menjalankan: Check Eligibility
 
 --- eligibility [1]Zura ---
-  @wzuraaa | score=2260 rank=3440
-  tasks    [############--------] 10/17
+  @wzuraaa | score=2340 rank=3330
+  tasks    [#########-----------] 8/17
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -63,15 +67,14 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Zura menjalankan: Read Manga
-[1]Zura        |06:42:48 | 28-10-2026| manga: 0/13 chapter belum completed
+[1]Zura        |06:50:27 | 29-10-2026| manga: 0/13 chapter belum completed
 --> [1]Zura menjalankan: Get Gift
-[1]Zura        |06:42:48 | 28-10-2026| gift: 1/5 belum diterima
-[1]Zura        |06:42:49 | 28-10-2026| gift [1/1] Oshii animated GIFs: OK
+[1]Zura        |06:50:28 | 29-10-2026| gift: 0/5 belum diterima
 --> [1]Zura menjalankan: Setup Profile
-[1]Zura        |06:42:52 | 28-10-2026| profile: bio="https://x.com/wzuraaa" fav=oshi rewardAt=1791687658
-[1]Zura        |06:42:52 | 28-10-2026| profile: bonus sudah diklaim, skip
+[1]Zura        |06:50:28 | 29-10-2026| profile: bio="https://x.com/wzuraaa" fav=oshi rewardAt=1791687658
+[1]Zura        |06:50:28 | 29-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Zura menjalankan: Bind Wallet
-[1]Zura        |06:42:53 | 28-10-2026| wallet: sudah terikat Av1MYx8hPu... (solana)
+[1]Zura        |06:50:29 | 29-10-2026| wallet: sudah terikat Av1MYx8hPu... (solana)
 
 == RINGKASAN ==
-- Zura: daily=claimed | tasks OK 8/8 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 1/5 diterima | profile - | wallet bound | mint req=false open=false
+- Zura: daily=claimed | tasks OK 10/10 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/5 diterima | profile - | wallet bound | mint req=false open=false
